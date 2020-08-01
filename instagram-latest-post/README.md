@@ -7,7 +7,7 @@ Get Instagram feed posts using instagram basic display API (using PHP).\
 - Instagram Basic Display API [[Guide]](#instagram-basic-display-api)
 
 ## Configuration
-- Edit `config.php`:
+- Edit `config.sample.php`:
   - Set your Instagram Basic Display API long-lived access token (`$token`)
   - Set your site URL (`$site`).
 - Save file as `config.php`.
